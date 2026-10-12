@@ -49,11 +49,15 @@ def load_artifacts():
 
 @st.cache_resource(show_spinner="Loading historical data (first run only)...")
 def load_historical_data():
+    parquet_path = os.path.join(ROOT_DIR, "data", "df_app.parquet")
+    if os.path.exists(parquet_path):
+        return pd.read_parquet(parquet_path)
+    
     candidates = [
         os.path.join(ROOT_DIR, "df_merged.csv"),
         os.path.join(ROOT_DIR, "data", "df_merged.csv"),
-        "df_merged.csv",
-    ]
+        "df_merged.csv",]
+
     dtypes = {
         "store_nbr": "int16", "onpromotion": "int32", "cluster": "int16",
         "sales": "float32", "dcoilwtico": "float32",
