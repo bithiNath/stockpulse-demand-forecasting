@@ -20,9 +20,11 @@ StockPulse forecasts daily product demand for a retail chain and turns the forec
 
 ## 🎬 Demo
 
-[![StockPulse demo](docs/demo-thumbnail.png)](docs/demo.mp4)
-
 *Click the image to watch the demo video.*
+
+[![StockPulse demo](doc/demo-thumbnail.PNG)](doc/demo.mp4)
+
+
 
 ---
 
