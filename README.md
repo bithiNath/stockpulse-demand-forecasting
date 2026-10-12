@@ -17,16 +17,16 @@ StockPulse forecasts daily product demand for a retail chain and turns the forec
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
+<br>
 
-## 🎬 Demo
+## 🎬  Streamlit Dashboard
 
-*Click the image to watch the demo video.*
+https://github.com/user-attachments/assets/f30ae608-0200-41d3-a3ad-be8115384570
 
-[![StockPulse demo](doc/demo-thumbnail.PNG)](doc/demo.mp4)
+**🔗 Live app:** [Open StockPulse]()
 
+<br>
 
-
----
 
 ## Highlights
 
