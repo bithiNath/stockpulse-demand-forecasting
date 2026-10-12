@@ -23,7 +23,7 @@ StockPulse forecasts daily product demand for a retail chain and turns the forec
 
 https://github.com/user-attachments/assets/f30ae608-0200-41d3-a3ad-be8115384570
 
-**🔗 Live app:** [Open StockPulse]()
+**🔗 Live app:** [Open StockPulse](https://stockpulse-demand-forecasting.streamlit.app/)
 
 <br>
 
