@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# large data files
+data/raw/
+data/df_merged.csv
+notebook/df_merged.csv
