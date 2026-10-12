@@ -5,5 +5,4 @@ __pycache__/
 .DS_Store
 
 # large data files
-data/df_merged.csv
 notebook/df_merged.csv
